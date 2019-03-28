@@ -1,0 +1,3 @@
+example:
+  stringMatcher: CONTAINING
+  withIgnoreCase: true
